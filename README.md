@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Screenshot 2023-05-18 153148](https://github.com/ROHITJAIND/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118707073/fd103b5b-87f5-4259-a963-9d31deffc8b5)
+![Screenshot 2023-05-30 111253](https://github.com/KRISHNARAJ-D/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559695/2c6eff94-6025-432d-8372-f3a81e041f25)
+
 ### Name: KRISHNARAJ D
 ### Register Number: 212222230070
 
